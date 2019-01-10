@@ -2,7 +2,7 @@
 
 Let me introduce myself...
 
-I'm Federico and I am a data enthusiast.
+I'm **Federico** and I am a **_data enthusiast_**.
 
 I have always been a *numeric* person, and two years ago I dived into data.
 After that day, I started discovering this wonderful world and I can't remember a day in which I learnt nothing.
