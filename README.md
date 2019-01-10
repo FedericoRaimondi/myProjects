@@ -12,6 +12,6 @@ After that day, I started discovering this wonderful world and I can't remember 
 #### 2. My [resume](https://github.com/FedericoRaimondi/me/tree/master/resume) in which I describe my experiences
 #### 3. Collection of data-related topics that I consider worth reading (i.e. papers, blogs, links)
 
-
+---
 
 P.S. Please notice that I am updating this repo. Soon, you will be able to see it completed :laughing:
