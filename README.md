@@ -4,8 +4,7 @@ Let me introduce myself...
 
 My name is **_Federico_** and I am a **_data enthusiast_**. 💻📊
 
-I have always been a *numeric* person, and two years ago I dived into data.
-After that day, I started discovering this wonderful world and I can't remember a day in which I learnt nothing.
+I have always been a *numeric* person and two years ago I dived into *data science*. Since that day, I have been discovering this wonderful world and I can't recall a day in which I didn't learn something.
 
 ## *In this repository you can find:*
 #### 1. Information some of the projects I had the pleasure to be part of, such as code, descriptions and results
