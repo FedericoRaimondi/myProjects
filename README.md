@@ -13,4 +13,4 @@ I have always been a *numeric* person and two years ago I dived into *data scien
 
 ---
 
-P.S. Please notice that I am updating this repo. Soon, you will be able to see it completed :laughing:
+P.S. Please notice that I am updating this repo. It will be available very soon! :laughing:
