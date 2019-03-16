@@ -9,7 +9,7 @@ I have always been a *numeric* person and few years ago I dived into *data scien
 ## *In this repository you can find:*
 #### 1. Information about projects I am working on, such as code, descriptions and results:
 - [Santander_Customer_Transaction_Prediction](https://github.com/FedericoRaimondi/me/tree/master/Santander_Customer_Transaction_Prediction)
-#### 2. My [resume](https://github.com/FedericoRaimondi/me/tree/master/resume) in which I describe my experiences
+#### 2. My [Resume & Certifications](https://github.com/FedericoRaimondi/me/tree/master/Resume & Certifications) in which I describe my experiences
 #### 3. Collection of data-related topics that I consider worth reading (i.e. papers, blogs, links)
 
 ---
