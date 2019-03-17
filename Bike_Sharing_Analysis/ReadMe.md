@@ -118,13 +118,13 @@ In this section, I would like to propose some business solutions. Of course, I a
 
 Then, I prepared a little demo to show the dashboard's features. The platform is realized with Tableau too.
 
-### Here you can find the [demo](https://youtu.be/k90AnR1w1R4)
+### - Here you can find the [demo](https://youtu.be/k90AnR1w1R4)
 
 ## New Trends & Opportunities
 
 ![trends](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/trends.png)
 
-##### App-based model
+### App-based model
 
 Mobile applications have several advantages and many different uses.
 
@@ -134,7 +134,7 @@ Then, these companies can’t set high prices. They need to have a low-cost mode
 
 Apps are also used in many dock-systems and again we can see free bikes location (or docks if we need to leave the bike) on the map. Payments are automated in this case too and not only they will let the user save a lot of time but they will also improve the whole service.
 
-##### Innovative Docks
+### Innovative Docks
 
 We have already seen dockless systems used by some companies. In the next future, the evolution of those solutions will become the challenge to have a competitive advantage.
 
@@ -144,17 +144,17 @@ Dockless solutions are interesting also from a data point of view. They will hel
 
 GPS technology in each bike has also another scope: defeat vandalism. This is a well-known issue in the bike-share field. Limiting this phenomenon is a challenge that can be faced through technology. IoT for sure will play an important role in this fight, and it will also contribute to develop smarter infrastructures.
 
-##### Maintenance costs
+### Maintenance costs
 
 [SoftWheel](https://www.softwheel.technology/) has recently found that wheel-related maintenance accounts from 50% up to 90% of the overall maintenance cost. The same company also produces innovative wheels that are airless and durable maintaining the same riding comfort.
 
 Reducing these costs is an incredible opportunity that all bike-sharing companies are going to face. This will make the difference in such a competitive environment.
 
-##### P2P bike-sharing
+### P2P bike-sharing
 
 Finally, peer-to-peer (P2P) bike-sharing is a service that can become an important trend in the upcoming future.
 
 P2P allows individual users to rent out their own bikes when they don't need them. At the moment, this kind of service is not very widespread, however, I am pretty sure that we will encounter many similar models in the next years.
 
-__**In conclusion, a mix of technology and innovation will forge new bike-share systems and ideas. Data, like in many other fields, are driving technologies and are innovating businesses. Then, it’s up to every company to ask itself if it is ready for what’s coming next.**__
+_**In conclusion, a mix of technology and innovation will forge new bike-share systems and ideas. Data, like in many other fields, are driving technologies and are innovating businesses. Then, it’s up to every company to ask itself if it is ready for what’s coming next.*_
 
