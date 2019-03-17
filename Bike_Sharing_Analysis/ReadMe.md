@@ -156,5 +156,5 @@ Finally, peer-to-peer (P2P) bike-sharing is a service that can become an importa
 
 P2P allows individual users to rent out their own bikes when they don't need them. At the moment, this kind of service is not very widespread, however, I am pretty sure that we will encounter many similar models in the next years.
 
-_**In conclusion, a mix of technology and innovation will forge new bike-share systems and ideas. Data, like in many other fields, are driving technologies and are innovating businesses. Then, it’s up to every company to ask itself if it is ready for what’s coming next.*_
+_**In conclusion, a mix of technology and innovation will forge new bike-share systems and ideas. Data, like in many other fields, are driving technologies and are innovating businesses. Then, it’s up to every company to ask itself if it is ready for what’s coming next.**_
 
