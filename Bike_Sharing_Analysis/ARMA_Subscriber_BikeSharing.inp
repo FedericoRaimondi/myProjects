@@ -1,0 +1,33 @@
+open /Users/federico/Desktop/SubscriberData.xls
+setobs 7 2018-05-01 --time-series
+genr time
+genr dummy
+
+# select best ARMA (considering pmax=7, qmax=7)
+smpl 2018-05-08 2018-07-31
+set echo off
+set bhhh_toler 1.0E-03
+loop for i=0..7
+  loop for j=0..7
+    arima i 0 j ; SubscriberData 0 time dummy_1 dummy_2 dummy_3 dummy_4 dummy_6 dummy_7 --quiet --conditional
+    printf "AR = %4g MA = %4g BIC = %.8g \n",  i, j, $bic
+  endloop
+endloop
+
+
+# EVALUATING THE PERFORMANCE OF ONE STEP AHEAD FORECASTS: AR1 + TREND AND DUMMIES, "STATIC" FORECAST
+set echo off 
+set messages off
+smpl 2018-07-01 2018-07-31
+arima 1 0 0 ; SubscriberData 0 time dummy_1 dummy_2 dummy_3 dummy_4 dummy_6 --conditional
+smpl full
+fcast 2018-08-01 2018-08-07 prev_in --dynamic
+err = SubscriberData-prev_in
+abserr = abs(err)
+sqerr = err^2
+RMSE = sqrt(mean(sqerr))
+printf "FORECASTING PERFORMANCE AR(1) MODEL:\n"
+printf "Mean Error              = %12.6f \n",  mean(err)
+printf "Mean Absolute Error     = %12.6f \n",  mean(abserr)
+printf "Root Mean Squared Error = %12.6f \n",  RMSE
+
