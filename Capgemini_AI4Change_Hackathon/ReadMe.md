@@ -1,6 +1,6 @@
 # Cagpemini AI4 Change Hackathon
 
-![ECoastal](https://github.com/FedericoRaimondi/me/blob/master/Capgemini_AI4Change_Hackathon/data%26predictions/ECOASTAL.PNG)
+![ECoastal](https://github.com/FedericoRaimondi/me/blob/master/Capgemini_AI4Change_Hackathon/data%26predictions/ECOASTAL.png)
 
 **Artificial intelligence** could be used to support social sustainability preventing tragedies and improving rescue teams efficiency.
 
