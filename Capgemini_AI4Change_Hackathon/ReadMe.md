@@ -1,6 +1,6 @@
 # Cagpemini AI4 Change Hackathon
 
-![ECoastal](https://github.com/FedericoRaimondi/me/tree/master/Capgemini_AI4Change_Hackathon/ECOASTAL.PNG)
+![ECoastal](https://github.com/FedericoRaimondi/me/blob/master/Capgemini_AI4Change_Hackathon/data%26predictions/ECOASTAL.PNG)
 
 **Artificial intelligence** could be used to support social sustainability preventing tragedies and improving rescue teams efficiency.
 
@@ -12,8 +12,8 @@ It could be used by European Government and the Coast Guard to know in advance w
 [ECoastal](https://youtu.be/ZTP89K_19sY) <- Click here to see the video presentation of our project.
 
 ## Results
-![Certificate](https://github.com/FedericoRaimondi/me/tree/master/Capgemini_AI4Change_Hackathon/AI4Change%%Hackathon%%Certificate)
+![Certificate](https://github.com/FedericoRaimondi/me/tree/master/Capgemini_AI4Change_Hackathon/AI4Change_Hackathon_Certificate.jpeg)
 
 Winners of the third price among more than a hundred of groups. Joined the sustainability challenge proposing an AI-based solution that may help facing migrants issue and avoiding many deaths
 
-### [Data & Predictions](https://github.com/FedericoRaimondi/me/tree/master/Capgemini_AI4Change_Hackathon/data&predictions)
+### [Data & Predictions](https://github.com/FedericoRaimondi/me/blob/master/Capgemini_AI4Change_Hackathon/data%26predictions)
