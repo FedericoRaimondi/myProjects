@@ -4,6 +4,8 @@ Here in this folder, I share the analysis I did for [Santander Customer Transact
 
 ![Santander](https://github.com/FedericoRaimondi/me/blob/master/Santander_Customer_Transaction_Prediction/data_exploration/im-wcsanusa-logo-7-19-18.png)
 
+-----------
+
 - [Exploratory Data Analysis]()
 - [Predictive Analysis]() <- Still in progress, I'm going to upload it at the end of the competition
 
