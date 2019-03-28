@@ -13,7 +13,7 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 
 -----------
 
-### - [Exploratory Data Analysis]()
+### - [Exploratory Data Analysis](https://github.com/FedericoRaimondi/me/tree/master/Santander_Customer_Transaction_Prediction/data_exploration)
 ### - [Predictive Analysis]() <- Still in progress, I'm going to upload it at the end of the competition
 
 ------------
