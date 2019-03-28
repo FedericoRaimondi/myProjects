@@ -2,7 +2,7 @@
 
 Here in this folder, I share the work I did for [Santander Customer Transaction Prediction Challenge](https://www.kaggle.com/c/santander-customer-transaction-prediction) Kaggle Competition
 
-![Santander](https://github.com/FedericoRaimondi/me/blob/master/Santander_Customer_Transaction_Prediction/data_exploration/im-wcsanusa-logo-7-19-18.png)
+![Santander](https://github.com/FedericoRaimondi/me/blob/master/Santander_Customer_Transaction_Prediction/Exploratory_Data_Analysis/im-wcsanusa-logo-7-19-18.png)
 
 ##### _Description:_
 At Santander our mission is to help people and businesses prosper. We are always looking for ways to help our customers understand their financial health and identify which products and services might help them achieve their monetary goals.
