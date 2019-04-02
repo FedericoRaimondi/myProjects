@@ -14,3 +14,5 @@ I have always been a *numeric* person and few years ago I dived into *data scien
 #### 2. My [Resume & Certifications](https://github.com/FedericoRaimondi/me/tree/master/Resume%20%26%20Certifications) where I describe my experiences
 #### 3. Collection of data-related topics that I consider worth reading (i.e. papers, blogs, links)
 
+*pt.3 is currently in progress*
+
