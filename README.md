@@ -12,7 +12,5 @@ I have always been a *numeric* person and few years ago I dived into *data scien
 - [Capgemini AI4Change Hackathon](https://github.com/FedericoRaimondi/me/tree/master/Capgemini_AI4Change_Hackathon)
 - [Santander_Customer_Transaction_Prediction](https://github.com/FedericoRaimondi/me/tree/master/Santander_Customer_Transaction_Prediction)
 #### 2. My [Certifications](https://github.com/FedericoRaimondi/me/tree/master/Resume%20%26%20Certifications) & my [LinkedIn](https://www.linkedin.com/in/federico-raimondi-cominesi/) profile
-#### 3. Collection of data-related topics that I consider worth reading (i.e. papers, blogs, links)
-
-*pt.3 is currently in progress*
+#### 3. Collection of data-related topics that I consider worth reading (i.e. papers, blogs, links, notes)
 
