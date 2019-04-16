@@ -18,6 +18,6 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 
 ### Results
 
-2299/9038 -> top 26%
+2209/9038 -> top 26%
 
 Model: Light GBM -> CV: 0.901; PublicLB: 0.901; PrivateLB: 0.89981.
