@@ -14,10 +14,14 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 -----------
 
 ### - [Exploratory Data Analysis](https://github.com/FedericoRaimondi/me/tree/master/Santander_Customer_Transaction_Prediction/Exploratory_Data_Analysis)
-### - [Predictive Analysis]() <- Still in progress, I'm going to upload it at the end of the competition
+### - [Predictive Analysis_& Model Tuning](https://github.com/FedericoRaimondi/me/tree/master/Santander_Customer_Transaction_Prediction/PredictiveAnalysis_ModelTuning)
+
 
 ### Results
 
 2209/9038 -> top 26%
 
 Model: Light GBM -> CV: 0.901; PublicLB: 0.901; PrivateLB: 0.89981.
+
+_Note_ : Inside PredictiveAnalysis_ModelTuning notebook you can also find different solution that achieved better scores.
+Max: PublicLB: 0.92223; PrivateLB: 0.92057
