@@ -23,9 +23,8 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 ### - [Exploratory Data Analysis](https://github.com/FedericoRaimondi/me/tree/master/Santander_Customer_Transaction_Prediction/Exploratory_Data_Analysis)
 ### - [Predictive Analysis_& Model Tuning](https://github.com/FedericoRaimondi/me/tree/master/Santander_Customer_Transaction_Prediction/PredictiveAnalysis_ModelTuning)
 
----
 
-### Results
+#### _Results_
 
 _top 26%_
 
