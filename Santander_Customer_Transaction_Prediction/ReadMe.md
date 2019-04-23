@@ -18,20 +18,18 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 [Here](https://www.kaggle.com/c/santander-customer-transaction-prediction/data) you can find the training and testing datasets
 
 
-----
-
-
-There are two folders:
+## You can find two folders in this section:
 
 ### - [Exploratory Data Analysis](https://github.com/FedericoRaimondi/me/tree/master/Santander_Customer_Transaction_Prediction/Exploratory_Data_Analysis)
 ### - [Predictive Analysis_& Model Tuning](https://github.com/FedericoRaimondi/me/tree/master/Santander_Customer_Transaction_Prediction/PredictiveAnalysis_ModelTuning)
 
+---
 
 ### Results
 
-2209/9038 -> top 26%
+_top 26%_
 
-Model: Light GBM -> CV: 0.901; PublicLB: 0.901; PrivateLB: 0.89981.
+_Model: Light GBM -> CV: 0.901; PublicLB: 0.901; PrivateLB: 0.89981._
 
 _Note_ : Inside PredictiveAnalysis_ModelTuning notebook you can also find different solution that achieved better scores.
 Max: PublicLB: 0.92223; PrivateLB: 0.92057
