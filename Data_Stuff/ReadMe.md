@@ -9,4 +9,4 @@ Personally, my favorite data-resources are:
 * [Harvard Business Review - Data](https://hbr.org/topic/data)
 * [MIT Sloan Review - Data & Analytics](https://sloanreview.mit.edu/topic/data-and-analytics/)
 
-Please notice that this section is currently in progress :smile:
+P.S. _Work in progress_
