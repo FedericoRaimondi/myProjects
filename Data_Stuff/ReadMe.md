@@ -15,15 +15,8 @@ Personally, my favorite data-resources are:
 
 ---
 
-## Notebooks
-Then, I also prepare some jupyter notebooks to explore topics that intrigue me.
-* [The Self Variable](https://github.com/FedericoRaimondi/me/blob/master/Data_Stuff/The%20Self%20variable.ipynb)
-* [args and kwargs](https://github.com/FedericoRaimondi/me/blob/master/Data_Stuff/args%20and%20kwargs.ipynb)
-
----
-
 ## Online Courses
-This is a selesction of courses that definetly deserve a look :smile:
+This is a selection of courses that definetly deserve a look :smile:
 
 #### Machine Learning
 * [Kaggle](https://www.kaggle.com/learn/machine-learning)
@@ -39,6 +32,7 @@ This is a selesction of courses that definetly deserve a look :smile:
 * [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview)
 
 #### R Programming
+* [R Programming](https://www.coursera.org/learn/r-programming) _not attended_
 * [R Programming: Advanced Analytics In R For Data Science](https://www.udemy.com/r-analytics/learn/v4/overview)
 
 #### Data Visualization
@@ -51,9 +45,16 @@ This is a selesction of courses that definetly deserve a look :smile:
 ---
 
 ## Books
+Here is a selection of famous ML & DL books. Some have a free-online version!
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
 * Practical Statistics for Data Scientists: 50 Essential Concepts
 * [Deep Learning](https://www.deeplearningbook.org/)
 
+---
+
+## Notebooks
+Then, I also prepare some jupyter notebooks to explore topics that intrigue me.
+* [The Self Variable](https://github.com/FedericoRaimondi/me/blob/master/Data_Stuff/The%20Self%20variable.ipynb)
+* [args and kwargs](https://github.com/FedericoRaimondi/me/blob/master/Data_Stuff/args%20and%20kwargs.ipynb)
 
