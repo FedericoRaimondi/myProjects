@@ -1,6 +1,6 @@
 # Data Stuff
 
-In this folder you can find some references and topic that I find really interesting!
+In this folder you can find references, topics and courses that I find really interesting!
 
 ---
 
