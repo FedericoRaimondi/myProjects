@@ -5,7 +5,9 @@ Let me introduce myself...
 ![Cover](https://github.com/FedericoRaimondi/me/blob/master/ales-nesetril-734016-unsplash.jpg)
 _Photo by Ales Nesetril on Unsplash_
 
-> My name is **_Federico_** and I am a data scientist and a **data enthusiast**. 💻📊
+---
+
+My name is **_Federico_** and I am a data scientist and a **data enthusiast**. 💻📊
 
 I have always been a *numeric* person and few years ago I dived into data science field as a student. Since that day, I have been discovering and working in this wonderful world and I can't recall a day in which I didn't learn something.
 
