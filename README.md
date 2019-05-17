@@ -1,3 +1,6 @@
+![Cover](https://github.com/FedericoRaimondi/me/blob/master/ales-nesetril-734016-unsplash.jpg)
+_Photo by Ales Nesetril on Unsplash_
+
 ### Hi! It's nice to see you here!
 
 Let me introduce myself...
