@@ -10,6 +10,7 @@
 - [Data](https://www.kaggle.com/c/instant-gratification/data)
 
 - Code: 
+  - [Instant Gratification EDA](script/instant-gratification-eda-and-prediction.html)
   - [Instant Gratification Ensemble](script/instant-gratification-ensemble.html)
 
 ---
