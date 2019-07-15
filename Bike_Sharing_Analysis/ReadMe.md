@@ -158,3 +158,6 @@ P2P allows individual users to rent out their own bikes when they don't need the
 
 _**In conclusion, a mix of technology and innovation will forge new bike-share systems and ideas. Data, like in many other fields, are driving technologies and are innovating businesses. Then, it’s up to every company to ask itself if it is ready for what’s coming next.**_
 
+---
+
+[HomePage](../README.md)
