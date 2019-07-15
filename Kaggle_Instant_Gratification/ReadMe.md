@@ -1,7 +1,7 @@
 # [Instant Gratification Competition](https://www.kaggle.com/c/instant-gratification/overview)
 
 
-![img](img/Inst%20Grat.png)
+![img](img/instant_grat.png)
 
 
 
