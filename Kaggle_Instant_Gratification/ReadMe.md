@@ -12,4 +12,6 @@
 - Code: 
   - [instant-gratification-ensemble](https://github.com/FedericoRaimondi/myProjects/tree/master/Kaggle_Instant_Gratification/script)
 
+---
+
 [HomePage](../README.md)
