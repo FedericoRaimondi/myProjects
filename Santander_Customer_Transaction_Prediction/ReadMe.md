@@ -32,3 +32,7 @@ _Model: Light GBM -> CV: 0.901; PublicLB: 0.901; PrivateLB: 0.89981._
 
 _Note_ : Inside PredictiveAnalysis_ModelTuning notebook you can also find different solution that achieved better scores.
 Max: PublicLB: 0.92223; PrivateLB: 0.92057
+
+---
+
+[HomePage](../README.md)
