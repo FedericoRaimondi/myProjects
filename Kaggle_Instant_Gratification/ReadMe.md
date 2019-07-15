@@ -1,7 +1,7 @@
 # [Instant Gratification Competition](https://www.kaggle.com/c/instant-gratification/overview)
 
 
-![img](https://github.com/FedericoRaimondi/me/blob/master/Kaggle_Instant_Gratification/img/Inst%20Grat.png)
+![img](img/Inst%20Grat.png)
 
 
 
@@ -9,4 +9,4 @@
 
 - [Data](https://www.kaggle.com/c/instant-gratification/data)
 
-- Code: Soon available :smile:
+- [Code](script)
