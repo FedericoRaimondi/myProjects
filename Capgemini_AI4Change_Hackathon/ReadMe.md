@@ -17,3 +17,7 @@ It could be used by European Government and the Coast Guard to know in advance w
 Winners of the third price among more than a hundred of groups. Joined the sustainability challenge proposing an AI-based solution that may help facing migrants issue and avoiding many deaths
 
 ##### [Data & Predictions](data%26predictions) <- Here are the data we used
+
+---
+
+[HomePage](../README.md)
