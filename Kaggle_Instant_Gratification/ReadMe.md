@@ -9,6 +9,6 @@
 
 - [Data](https://www.kaggle.com/c/instant-gratification/data)
 
-- [Code](script)
+- [Code](https://github.com/FedericoRaimondi/myProjects/tree/master/Kaggle_Instant_Gratification/script)
 
 [HomePage](../README.md)
