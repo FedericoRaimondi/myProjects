@@ -11,4 +11,4 @@
 
 - [Code](script)
 
-[HomePage](../)
+[HomePage](../../)
