@@ -2,7 +2,7 @@
 
 Let me introduce myself...
 
-![Cover](ales-nesetril-734016-unsplash.jpg)
+![cover](ales-nesetril-734016-unsplash.jpg)
 
 _Photo by Ales Nesetril on Unsplash_
 
