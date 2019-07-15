@@ -15,9 +15,10 @@ I have always been a numeric person and few years ago I dived into data science 
 ## *In this repository you can find:*
 
 #### 1. Information about projects I am working/I worked on, such as code, descriptions and results:
-- [Bike-Sharing Analysis](Bike_Sharing_Analysis)
+- [Bike Sharing Analysis](Bike_Sharing_Analysis)
 - [Capgemini AI4Change Hackathon](Capgemini_AI4Change_Hackathon)
-- [Santander_Customer_Transaction_Prediction](Santander_Customer_Transaction_Prediction)
+- [Santander Customer Transaction Prediction](Santander_Customer_Transaction_Prediction)
+- [Kaggle Instant Gratification](Kaggle_Instant_Gratification)
 
 #### 2. [Certifications](Resume%20%26%20Certifications) & [LinkedIn](https://www.linkedin.com/in/federico-raimondi-cominesi/) profile
 
