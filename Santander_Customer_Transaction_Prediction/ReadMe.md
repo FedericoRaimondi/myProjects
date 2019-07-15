@@ -2,9 +2,9 @@
 
 Here in this folder, I share the work I did for [Santander Customer Transaction Prediction Challenge](https://www.kaggle.com/c/santander-customer-transaction-prediction) Kaggle Competition
 
-![Santander](https://github.com/FedericoRaimondi/me/blob/master/Santander_Customer_Transaction_Prediction/Exploratory_Data_Analysis/im-wcsanusa-logo-7-19-18.png)
+![santander](Exploratory_Data_Analysis/im-wcsanusa-logo-7-19-18.png)
 
-![Atm](https://github.com/FedericoRaimondi/me/blob/master/Santander_Customer_Transaction_Prediction/Exploratory_Data_Analysis/atm.png)
+![atm](Exploratory_Data_Analysis/atm.png)
 
 #### _Description_
 At Santander our mission is to help people and businesses prosper. We are always looking for ways to help our customers understand their financial health and identify which products and services might help them achieve their monetary goals.
@@ -20,8 +20,8 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 
 ## You can find two folders in this section:
 
-### - [Exploratory Data Analysis](https://github.com/FedericoRaimondi/me/tree/master/Santander_Customer_Transaction_Prediction/Exploratory_Data_Analysis)
-### - [Predictive Analysis_& Model Tuning](https://github.com/FedericoRaimondi/me/tree/master/Santander_Customer_Transaction_Prediction/PredictiveAnalysis_ModelTuning)
+### - [Exploratory Data Analysis](Exploratory_Data_Analysis)
+### - [Predictive Analysis_& Model Tuning](PredictiveAnalysis_ModelTuning)
 
 
 #### _Results_
