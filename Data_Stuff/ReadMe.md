@@ -56,8 +56,8 @@ Here is a selection of famous ML & DL books. Some have a free-online version!
 
 ## Notebooks
 Then, I also prepare some jupyter notebooks to explore topics that intrigue me.
-* [The Self Variable](https://github.com/FedericoRaimondi/me/blob/master/Data_Stuff/The%20Self%20variable.ipynb)
-* [args and kwargs](https://github.com/FedericoRaimondi/me/blob/master/Data_Stuff/args%20and%20kwargs.ipynb)
+* [The Self Variable](The_Self_variable.html)
+* [args and kwargs](args_and_kwargs.html)
 
 ---
 
