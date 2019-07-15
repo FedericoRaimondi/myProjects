@@ -10,7 +10,7 @@
 - [Data](https://www.kaggle.com/c/instant-gratification/data)
 
 - Code: 
-  - [Instant Gratification Ensemble](script/instant-gratification-ensemble.md)
+  - [Instant Gratification Ensemble](script/instant-gratification-ensemble.html)
 
 ---
 
