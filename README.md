@@ -2,7 +2,7 @@
 
 Let me introduce myself...
 
-![Cover](https://github.com/FedericoRaimondi/me/blob/master/ales-nesetril-734016-unsplash.jpg)
+![Cover](ales-nesetril-734016-unsplash.jpg)
 
 _Photo by Ales Nesetril on Unsplash_
 
