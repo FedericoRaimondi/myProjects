@@ -1,5 +1,5 @@
 # Bike-Sharing Analysis
-![Ford GoBike](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/Ford_GoBike.jpeg)
+![fordgobike](img/Ford_GoBike.jpeg)
 *Photo courtesy of Ford GoBike*
 
 ## San Francisco Bay Area
@@ -15,7 +15,7 @@ Mobility is a fundamental asset for a big city and several companies are investi
 I read many articles and theories about how a data science process should be structured, such as [“Data Science Deconstructed”](https://ajgoldstein.com/2017/11/12/deconstructing-data-science/) by [AJ Goldstein](https://www.linkedin.com/in/ajgoldstein/) or [“O.S.E.M.N.”](https://www.kdnuggets.com/2018/05/beginners-guide-data-science-pipeline.html) by [Randy Lao](https://www.linkedin.com/in/randylaosat/).
 
 After having considered them, I decided to adapt those cycles to my project and it is shown in the info-graphic below:
-![DS Process](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/ds.png)
+![dsprocess](img/ds.png)
 
 ## 1 Domain Understanding
 As the first stage of the process, I think it is crucial to understand the context and the business that we analyze.
@@ -27,12 +27,12 @@ The system is operated by [Motivate](https://www.motivateco.com/), a New York-ba
 Expectations are that the entire system will reach 7000 bikes and 540 stations in the Bay Area.
 
 ## 2 Business Questions
-![Business Questions](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/businessquestions.png)
+![businessquestions](img/businessquestions.png)
 
 The goal of the study was not to perfectly solve all the questions, however, I formulated them to be the main drivers of the analysis.
 
 ## 3 The Dataset
-![Data](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/data.png)
+![data](img/data.png)
 
 This is what the data looks like. Each row represents a user's trip.
 
@@ -51,7 +51,7 @@ As preparation task, I only fixed the date format for all the files available. T
 
 In order to explore the Ford GoBike's data, I used Tableau, that is one of the leaders in the analytics and business intelligence market as reported by Gartner in its magic quadrant.
 
-![first](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/aprilgraph.jpeg)
+![first](img/aprilgraph.jpeg)
 
 The graph above shows the number of subscribers and customers for the days in April 2018. I circled in blue the weekends and I displayed an outlier in red.
 
@@ -63,11 +63,11 @@ On the other side, customers have a more distributed usage and they often reach 
 
 The next visualization is similar to the one I displayed before, however, here there is the average trip duration in seconds by type of users in a specific hour. I performed the average for the overall duration trip between the same hour in April 2018.
 
-![second](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/aprilgraph2.jpeg)
+![second](img/aprilgraph2.jpeg)
 
 The first graph takes into account only Monday to Friday data. We can observe that subscribers have two peaks around 8 a.m. and 5 p.m.. This is confirming that they do use the bikes to reach the workplace. Customers have a more flat curve and we do not notice a significant increase during the day.
 
-![third](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/aprilgraph3.jpeg)
+![third](img/aprilgraph3.jpeg)
 
 The second graph shows only weekend data. Completely different situation, isn't it?
 
@@ -75,8 +75,8 @@ Even if there are less customers than subscribers, they use for a longer period 
 
 Finally, the last exploration task that I performed is dividing trip duration by the number of users in that specific hour. By doing so, we obtain a duration weighted by the demand and we can also perform the average between the same hours within the month.
 
-![fourth](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/aprilgraph4.jpeg)
-![fifth](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/aprilgraph5.jpeg)
+![fourth](img/aprilgraph4.jpeg)
+![fifth](img/aprilgraph5.jpeg)
 
 This indicator is an average trip duration in seconds per user. Observing the last two graphs, we can clearly distinguish subscriber nature, that is constant during the day, from customer’s one, that is more sloped.
 
@@ -97,14 +97,14 @@ Analytics is becoming more accessible for everyone and from the first point of v
 
 To select between several time-series models I wrote a [Gretl script](https://gist.github.com/FedericoRaimondi/840ce42c00cb97823be2c2bf745f0acf) and ARMA(1,0) resulted to be the best among the others.
 
-![gretl](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/gretl.png)
+![gretl](img/gretl.png)
 
 Where 𝑥̂𝑖: predicted value; 𝑛: number of observations; 𝑅𝑀𝑆𝐸0: it is the 𝑅𝑀𝑆𝐸 of a naïve model.
 
 In the table we can see how the models performed. Subscribers' model is better than the customers' one. The reason is that the regular pattern of frequent users is easier to predict rather than the occasional one.
 
-![pred1](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/pred1.png)
-![pred2](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/pred2.png)
+![pred1](img/pred1.png)
+![pred2](img/pred2.png)
 
 Even from the prediction graphs we can clearly notice the difference between the two models. In fact, confidence intervals look much wider in the upper graph (Customers).
 
@@ -114,7 +114,7 @@ In conclusion, the entire predicting process didn’t take too much time and for
 
 In this section, I would like to propose some business solutions. Of course, I am not considering any related costs because those are not open source data. Integrating this analysis with those kind of information can derive very interesting insights.
 
-![actions](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/businessactions.png)
+![actions](img/businessactions.png)
 
 Then, I prepared a little demo to show the dashboard's features. The platform is realized with Tableau too.
 
@@ -122,7 +122,7 @@ Then, I prepared a little demo to show the dashboard's features. The platform is
 
 ## New Trends & Opportunities
 
-![trends](https://github.com/FedericoRaimondi/me/blob/master/Bike_Sharing_Analysis/img/trends.png)
+![trends](img/trends.png)
 
 ### App-based model
 
