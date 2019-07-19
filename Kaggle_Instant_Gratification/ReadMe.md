@@ -3,7 +3,7 @@
 
 ![img](img/instant_grat.png)
 
-### Description
+### _Description_
 
 We're now pleased to announce general support for a synchronous Kernels-only format. When you submit from a Kernel, Kaggle will run the code against both the public test set and private test set in real time. This small-but-substantial tweak improves the experience for participants, the host, and Kaggle:
 
@@ -18,6 +18,8 @@ Since the competition also presents an authentic machine learning problem, it wi
 
 ### Final Result: **Bronze medal** | Top 10% - 177/1839
 
+---
+
 - [Data](https://www.kaggle.com/c/instant-gratification/data)
 
 This is an anonymized, binary classification dataset found on a USB stick that washed ashore in a bottle. There was no data dictionary with the dataset, but this poem was handwritten on an accompanying scrap of paper:
@@ -28,6 +30,8 @@ but the test set is a mystery.
 Careful how you pick and slice, 
 or be left behind by history.
 ```
+
+---
 
 - Code: 
   - [Instant Gratification EDA](script/instant-gratification-eda-and-prediction.html)
