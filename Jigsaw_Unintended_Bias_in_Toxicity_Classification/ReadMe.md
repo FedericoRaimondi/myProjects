@@ -16,6 +16,8 @@ In this competition, you're challenged to build a model that recognizes toxicity
 
 ### Final Result: **Bronze medal** | Top 10% - 293/3165
 
+---
+
 - **[Data](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data)**
 
 _Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive._
@@ -29,6 +31,8 @@ The data also has several additional toxicity subtype attributes. Models do not 
 
 `severe_toxicity`
 `obscene`
+
+---
 
 - **Code:**
   - [Keras RNN Training](script/keras-rnn-training.html)
