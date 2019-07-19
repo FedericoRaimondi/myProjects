@@ -1,4 +1,4 @@
-# Jigsaw Unintended Bias in Toxicity Classification
+# [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
 
 ![jigsawpic](img/jigsaw.png)
 
@@ -14,11 +14,11 @@ Here’s the background: When the Conversation AI team first built toxicity mode
 
 In this competition, you're challenged to build a model that recognizes toxicity and minimizes this type of unintended bias with respect to mentions of identities. You'll be using a dataset labeled for identity mentions and optimizing a metric designed to measure unintended bias. Develop strategies to reduce unintended bias in machine learning models, and you'll help the Conversation AI team, and the entire industry, build models that work well for a wide range of conversations.
 
-### Final Result: **Bronze medal** | Top 10% - 293/3165
+### _Final Result:_ Bronze medal | Top 10% - 293/3165
 
 ---
 
-- **[Data](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data)**
+### _[Data](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data)_
 
 _Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive._
 
@@ -34,7 +34,8 @@ The data also has several additional toxicity subtype attributes. Models do not 
 
 ---
 
-- **Code:**
+### _Code:_
+
   - [Keras RNN Training](script/keras-rnn-training.html)
   - [BERT Training](script/bert-training.html)
   - [Inference - BERT & LSTM rank blender](script/bert-lstm-rank-blender.html)
