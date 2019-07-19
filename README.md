@@ -14,11 +14,13 @@ I have always been a numeric person and few years ago I dived into data science.
 
 ## *In this repository you can find:*
 
-#### 1. Information about projects I am working/I worked on, such as code, descriptions and results:
-- [Bike Sharing Analysis](Bike_Sharing_Analysis)
+#### 1. Information about projects I am working/I worked on, such as code, descriptions and results (ordered by most recent date):
+- [Jigsaw Unintended Bias in Toxicity Classification - Kaggle](Jigsaw_Unintended_Bias_in_Toxicity_Classification)
+- [Instant Gratification - Kaggle](Kaggle_Instant_Gratification)
+- [Santander Customer Transaction Prediction - Kaggle](Santander_Customer_Transaction_Prediction)
 - [Capgemini AI4Change Hackathon](Capgemini_AI4Change_Hackathon)
-- [Santander Customer Transaction Prediction](Santander_Customer_Transaction_Prediction)
-- [Kaggle Instant Gratification](Kaggle_Instant_Gratification)
+- [Bike Sharing Analysis - Master Thesis](Bike_Sharing_Analysis)
+
 
 #### 2. [Certifications](https://github.com/FedericoRaimondi/myProjects/tree/master/Resume%20%26%20Certifications) & [LinkedIn](https://www.linkedin.com/in/federico-raimondi-cominesi/) profile
 
