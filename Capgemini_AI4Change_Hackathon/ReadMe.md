@@ -14,9 +14,9 @@ It could be used by European Government and the Coast Guard to know in advance w
 ## Results
 ![certificate](AI4Change_Hackathon_Certificate.PNG)
 
-Winners of the third price among more than a hundred of groups. Joined the sustainability challenge proposing an AI-based solution that may help facing migrants issue and avoiding many deaths
+_**Winners of the 3rd price among more than 100 groups. Joined the sustainability challenge proposing an AI-based solution that may help facing migrants issue and avoiding many deaths**_
 
-##### [Data & Predictions](data%26predictions) <- Here are the data we used
+#### _[Data & Predictions](data%26predictions)_
 
 ---
 
