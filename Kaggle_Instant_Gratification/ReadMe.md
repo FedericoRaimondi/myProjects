@@ -16,7 +16,7 @@ This competition is a low-stakes, trial-run introduction to our new synchronous 
 
 Since the competition also presents an authentic machine learning problem, it will also award Kaggle medals and points. Have fun, good luck, and welcome to the world of synchronous Kernels competitions!
 
-### Final Result: **Bronze medal** | Top 10% - 177/1839
+### _Final Result:_ Bronze medal | Top 10% - 177/1839
 
 ---
 
@@ -33,7 +33,8 @@ or be left behind by history.
 
 ---
 
-- Code: 
+### _Code:_
+
   - [Instant Gratification EDA](script/instant-gratification-eda-and-prediction.html)
   - [Instant Gratification Ensemble](script/instant-gratification-ensemble.html)
 
