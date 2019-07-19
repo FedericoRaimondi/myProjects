@@ -15,10 +15,10 @@ I have always been a numeric person and few years ago I dived into data science.
 ## *In this repository you can find:*
 
 #### 1. Information about projects I am working/I worked on, such as code, descriptions and results (ordered by most recent date):
-- [Jigsaw Unintended Bias in Toxicity Classification - Kaggle](Jigsaw_Unintended_Bias_in_Toxicity_Classification)
-- [Instant Gratification - Kaggle](Kaggle_Instant_Gratification)
+- [Jigsaw Unintended Bias in Toxicity Classification - Kaggle [Bronze Medal]](Jigsaw_Unintended_Bias_in_Toxicity_Classification)
+- [Instant Gratification - Kaggle [Bronze Medal]](Kaggle_Instant_Gratification)
 - [Santander Customer Transaction Prediction - Kaggle](Santander_Customer_Transaction_Prediction)
-- [Capgemini AI4Change Hackathon](Capgemini_AI4Change_Hackathon)
+- [Capgemini AI4Change Hackathon [3rd]](Capgemini_AI4Change_Hackathon)
 - [Bike Sharing Analysis - Master Thesis](Bike_Sharing_Analysis)
 
 
