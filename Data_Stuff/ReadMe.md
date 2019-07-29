@@ -1,5 +1,9 @@
 # Data Stuff
 
+![datacover](margaret-weir-GZyjbLNOaFg-unsplash.jpg)
+
+_Photo by Margaret Weir on Unsplash_
+
 In this folder you can find references, topics and courses that I find really interesting!
 
 ---
