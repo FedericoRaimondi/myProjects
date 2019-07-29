@@ -23,7 +23,12 @@ I have always been a numeric person and few years ago I dived into data science.
 - [Bike Sharing Analysis - Master Thesis](Bike_Sharing_Analysis)
 
 
-#### 2. [Certifications](https://github.com/FedericoRaimondi/myProjects/tree/master/Certifications) & [LinkedIn](https://www.linkedin.com/in/federico-raimondi-cominesi/) profile
+#### 2. [Certifications](https://github.com/FedericoRaimondi/myProjects/tree/master/Certifications)
 
 #### 3. Collection of [data-related topics](Data_Stuff) that I consider worth reading (i.e. papers, blogs, links, notes)
 
+---
+
+### [LinkedIn](https://www.linkedin.com/in/federico-raimondi-cominesi/) profile
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="it_IT" data-type="horizontal" data-theme="dark" data-vanity="federico-raimondi-cominesi"><a class="LI-simple-link" href='https://it.linkedin.com/in/federico-raimondi-cominesi?trk=profile-badge'>Federico Raimondi Cominesi</a></div>
