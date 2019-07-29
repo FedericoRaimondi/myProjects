@@ -32,3 +32,5 @@ I have always been a numeric person and few years ago I dived into data science.
 ### [LinkedIn profile](https://www.linkedin.com/in/federico-raimondi-cominesi/)
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="it_IT" data-type="horizontal" data-theme="dark" data-vanity="federico-raimondi-cominesi"><a class="LI-simple-link" href='https://it.linkedin.com/in/federico-raimondi-cominesi?trk=profile-badge'>Federico Raimondi Cominesi</a></div>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
