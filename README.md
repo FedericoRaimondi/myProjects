@@ -34,7 +34,7 @@ I have always been a numeric person and a few years ago I dived into data scienc
 _3x Kaggle Expert. Best ranking:_
 - Competitions Expert -> **top 3%**
 - Kernels Expert -> **top 1%**
-- Discussions Expert -> **top 1%**
+- Discussion Expert -> **top 1%**
 
 ### [LinkedIn profile](https://www.linkedin.com/in/federico-raimondi-cominesi/)
 
