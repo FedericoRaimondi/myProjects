@@ -29,6 +29,13 @@ I have always been a numeric person and a few years ago I dived into data scienc
 
 ---
 
+### [Kaggle Profile](https://www.kaggle.com/raimonds1993)
+
+_3x Kaggle Expert. Best ranking:_
+- Competitions Expert -> **top 3%**
+- Kernels Expert -> **top 1%**
+- Discussions Expert -> **top 1%**
+
 ### [LinkedIn profile](https://www.linkedin.com/in/federico-raimondi-cominesi/)
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="federico-raimondi-cominesi"><a class="LI-simple-link" href='https://it.linkedin.com/in/federico-raimondi-cominesi?trk=profile-badge'>Federico Raimondi Cominesi</a></div>
