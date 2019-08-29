@@ -16,6 +16,7 @@ I have always been a numeric person and a few years ago I dived into data scienc
 
 #### 1. Information about projects I am working/I worked on, such as code, descriptions and results (ordered by most recent date):
 
+- [Predicting Molecular Properties - Kaggle [Bronze Medal]](Predicting_Molecular_Properties)
 - [Jigsaw Unintended Bias in Toxicity Classification - Kaggle [Bronze Medal]](Jigsaw_Unintended_Bias_in_Toxicity_Classification)
 - [Instant Gratification - Kaggle [Bronze Medal]](Kaggle_Instant_Gratification)
 - [Santander Customer Transaction Prediction - Kaggle](Santander_Customer_Transaction_Prediction)
