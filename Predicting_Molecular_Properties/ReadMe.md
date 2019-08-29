@@ -2,6 +2,8 @@
 
 ![compet](img/competition.png)
 
+A special thank to **[Laura](https://www.linkedin.com/in/laura-f-ab2010170/)**, my teammate, who really helped me in this project!
+
 ### _Description_
 
 Think you can use your data science smarts to make big predictions at a molecular level?
@@ -32,8 +34,6 @@ Join the CHAMPS Scalar Coupling challenge to apply predictive analytics to chemi
 
 ### _Final Result:_ Bronze medal | Top 9% - 248/2757
 
-A special thank to **[Laura](https://www.linkedin.com/in/laura-f-ab2010170/)**, my teammate, who really helped me in this project!
-
 ---
 
 ### _[Data](https://www.kaggle.com/c/champs-scalar-coupling/data)_
@@ -50,8 +50,8 @@ The training and test splits are by molecule, so that no molecule in the trainin
 
   - [Final Solution - Blender](script/chemistry-of-best-models-upgrade-bronze.html) - PrivateLB: -1.91316, PublicLB: -1.91930
   - [Molecules EDA - by Laura](script/molecules-eda.html)
-  - Soon the 2 customized notebooks inside the Blend solution
-
+  - [SchNet - Upgrade](script/schnet-predicting-molecular-properties-upgrade.html)
+  - [LGBM - Upgrade](script/lgbm-predicting-molecular-properties.html)
 
 ---
 
