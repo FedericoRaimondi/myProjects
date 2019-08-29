@@ -48,7 +48,7 @@ The training and test splits are by molecule, so that no molecule in the trainin
 
 ### _Code:_
 
-  - [Final Solution - Blender](script/chemistry-of-best-models-upgrade-bronze.html) PrivateLB: -1.91316, PublicLB: -1.91930
+  - [Final Solution - Blender](script/chemistry-of-best-models-upgrade-bronze.html) - PrivateLB: -1.91316, PublicLB: -1.91930
   - [Molecules EDA - by Laura](script/molecules-eda.html)
   - Soon the 2 customized notebooks inside the Blend solution
 
