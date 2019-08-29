@@ -2,7 +2,7 @@
 
 ![compet](img/competition.png)
 
-A special thank to **[Laura](https://www.linkedin.com/in/laura-f-ab2010170/)**, my teammate, who really helped me in this project!
+A special thanks goes to **[Laura](https://www.linkedin.com/in/laura-f-ab2010170/)**, my teammate, who really helped me in this project!
 
 ### _Description_
 
