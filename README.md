@@ -1,12 +1,11 @@
-### Hi! It's nice to see you here!
-
-Let me introduce myself...
+# My Projects
 
 ![cover](ales-nesetril-734016-unsplash.jpg)
 
 _Photo by Ales Nesetril on Unsplash_
 
 ---
+#### Hi, it's nice to see you here! Let me introduce myself...
 
 My name is **_Federico_** and I'm a data scientist and, most importantly, I'm a **data enthusiast**. 💻📊
 
