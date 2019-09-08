@@ -45,16 +45,20 @@ In a synchronous Kernels-only competition, the files you can observe and downloa
 Public vs Private
 
 **train.csv** - the training labels
+
 **test.csv** - the test set (you must predict the `diagnosis` value for these variables)
+
 **sample_submission.csv** - a sample submission file in the correct format
+
 **train.zip** - the training set images
+
 **test.zip** - the public test set images
 
 ---
 
 ### _Code:_
 
-  - [Blending our Top3 Models and 2 Public - Final solution](script/blending-kernel-top3-model-2-public.html)
+  - [Blending our Top3 Models and 2 Public - Final solution - PublicLB: 0.803, PrivateLB: 0.917](script/blending-kernel-top3-model-2-public.html)
   - [DenseNet Training '19 - '15 Data](script/aptos19-densenet-trained-with-old-and-new-data.html)
   - [DenseNet Inference '19 - '15 Data](script/aptos19-densenet-inference-old-new-data.html)
   - [EfficientNet Training '19 - '15 Data](script/aptos19-efficientnet-keras-regression-lb-0-75.html)
