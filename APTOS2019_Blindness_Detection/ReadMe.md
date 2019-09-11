@@ -14,7 +14,9 @@ In this synchronous Kernels-only competition, you'll build a machine learning mo
 
 Get started today!
 
-### _Final Result:_ Bronze medal | Top 7% - 206/2987
+### _Final Result:_ Bronze medal | Top 7% - 193/2987
+
+I would love to thank [Claudio](https://www.linkedin.com/in/claudio-fanconi-b37904153/), my team mate in this project, for his great work! It was really a nice and fun team ;)
 
 ---
 
