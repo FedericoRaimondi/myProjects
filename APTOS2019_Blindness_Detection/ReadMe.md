@@ -65,6 +65,9 @@ Public vs Private
   - [DenseNet Inference '19 - '15 Data](script/aptos19-densenet-inference-old-new-data.html)
   - [EfficientNet Training '19 - '15 Data](script/aptos19-efficientnet-keras-regression-lb-0-75.html)
   - [EfficientNet Inference '19 - '15 Data](script/aptos19-inference-efficientnet-keras-regression.html)
+  - [EfficientNet B3 Regression Model 1 by Claudio](script/efficientnetb3-regression-model-1.html)
+  - [EfficientNet B3 Regression Model 2 by Claudio](script/efficientnetb3-regression-model-2.html)
+  - [EfficientNet B3 Multi-Label Model 3 by Claudio](script/efficientnetb3-multilabel-model-3.html)
   - [Aptos2019 ImageSuperResolution](script/aptos2019-image-super-resolution.html)
 
 ---
