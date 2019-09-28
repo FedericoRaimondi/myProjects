@@ -60,6 +60,7 @@ Here is a selection of famous ML & DL books. Some have a free-online version!
 
 ## Notebooks
 Then, I also prepare some jupyter notebooks to explore topics that intrigue me.
+* [Get Notifications from your model - Knock Knock Tutorial](knockknock_tutorial)
 * [The Self Variable](The%20Self%20variable.html)
 * [args and kwargs](args%20and%20kwargs.html)
 
