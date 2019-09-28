@@ -1,8 +1,8 @@
-# Knock Knock Tutorial
+# [Knock Knock Tutorial](Knock_Knock_tutorial.html)
 
-Simple and quick python [knockknock](https://github.com/huggingface/knockknock) tutorial.
+Simple and quick python [knockknock tutorial](Knock_Knock_tutorial.html).
 
-Star their project cause it's simply amazing :smile:.
+[Star their project](https://github.com/huggingface/knockknock) cause it's simply amazing :smile:.
 
 ---
 
