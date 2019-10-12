@@ -103,3 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 .DS_Store
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/me.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
