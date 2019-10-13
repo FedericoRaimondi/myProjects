@@ -1,6 +1,6 @@
 # My Projects
 
-![cover](ales-nesetril-734016-unsplash.jpg)
+![cover](img/ales-nesetril-734016-unsplash.jpg)
 
 _Photo by Ales Nesetril on Unsplash_
 
@@ -32,6 +32,7 @@ I have always been a numeric person and a few years ago I dived into data scienc
 ---
 
 ### [Kaggle Profile](https://www.kaggle.com/raimonds1993)
+![kaggle](img/kaggle_profile.png)
 
 _3x Kaggle Expert. Best ranking:_
 - Competitions Expert -> **top 1%**
