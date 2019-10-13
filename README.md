@@ -32,7 +32,7 @@ I have always been a numeric person and a few years ago I dived into data scienc
 ---
 
 ### [Kaggle Profile](https://www.kaggle.com/raimonds1993)
-![kaggle](img/kaggle_profile.png)
+![kaggleprofile](img/kaggle.png)
 
 _3x Kaggle Expert. Best ranking:_
 - Competitions Expert -> **top 1%**
