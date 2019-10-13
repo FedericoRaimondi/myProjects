@@ -1,4 +1,4 @@
-# My Projects
+# Federico Raimondi Cominesi - My Projects
 
 ![cover](img/ales-nesetril-734016-unsplash.jpg)
 
