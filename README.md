@@ -15,7 +15,9 @@ I have always been a numeric person and a few years ago I dived into data scienc
 
 #### 1. Information about projects I am working/I worked on, such as code, descriptions and results (ordered by most recent date):
 
-- [IEEE-CIS Fraud Detection [Silver Medal - 23rd]](IEEE-CIS_Fraud_Detection)
+<img src="folder.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" /> [IEEE-CIS Fraud Detection [Silver Medal - 23rd]](IEEE-CIS_Fraud_Detection)
 - [APTOS2019 Blindness Detection - Kaggle [Bronze Medal]](APTOS2019_Blindness_Detection)
 - [Predicting Molecular Properties - Kaggle [Bronze Medal]](Predicting_Molecular_Properties)
 - [Jigsaw Unintended Bias in Toxicity Classification - Kaggle [Bronze Medal]](Jigsaw_Unintended_Bias_in_Toxicity_Classification)
