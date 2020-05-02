@@ -46,13 +46,13 @@ The data is broken into two files identity and transaction, which are joined by 
 
 ---
 
-### _Our Solution:_
-
-
----
-
 ### _Code:_
 
+- [CatBoost by Alexey](script/catboost_best_grazder.html)
+- [LGBM by Alexey](script/lgbm_best_grazder.html)
+- [XGBoost Adversarial by me](script/IEEE_2019_XGBoost_Adversarial.html)
+- [XGBoost Focal Loss by me](script/IEEE_2019_XGBoost_focal_all_feat.html)
+- [Categorical Features CV Encoding](script/Categorical_Features_CV_Encoding.html)
 
 ---
 
