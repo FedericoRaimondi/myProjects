@@ -11,6 +11,10 @@ My name is **_Federico_** and I'm a data scientist and, most importantly, I'm a 
 
 I have always been a numeric person and a few years ago I dived into data science. Since that day, I have been discovering and working in this wonderful world and I can't recall a day in which I didn't learn something.
 
+My motto?
+
+> _“Learning never exhausts the mind”_ - Leonardo da Vinci.
+
 ## *In this repository you can find:*
 
 #### 1. Information about projects I am working/I worked on, such as code, descriptions and results (ordered by most recent date):
