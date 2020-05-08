@@ -63,6 +63,7 @@ Then, I also prepare some jupyter notebooks to explore topics that intrigue me.
 * [Get Notifications from your model - Knock Knock Tutorial](knockknock_tutorial)
 * [The Self Variable](The%20Self%20variable.html)
 * [args and kwargs](args%20and%20kwargs.html)
+* [Python Decorators](Python_Decorators.html)
 
 ---
 
