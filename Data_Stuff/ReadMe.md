@@ -64,6 +64,7 @@ Then, I also prepare some jupyter notebooks to explore topics that intrigue me.
 * [Get Notifications from your model - Knock Knock Tutorial](knockknock_tutorial)
 * [The Self Variable](The%20Self%20variable.html)
 * [args and kwargs](args%20and%20kwargs.html)
+
 From [Corey Schafer](https://www.youtube.com/user/schafer5):
 * [Python Decorators](Python_Decorators.html)
 * [Python Object-Oriented Programming](Python_OOP.html)
