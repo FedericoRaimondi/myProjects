@@ -49,7 +49,4 @@ _3x Kaggle Expert. Best ranking:_
 - Discussion Expert -> **top 1%**
 
 ### [LinkedIn profile](https://www.linkedin.com/in/federico-raimondi-cominesi/)
-
-<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="federico-raimondi-cominesi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lu.linkedin.com/in/federico-raimondi-cominesi?trk=profile-badge">Federico Raimondi Cominesi</a></div>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+![linkedin](img/linkedin.jpg) in/federico-raimondi-cominesi/
