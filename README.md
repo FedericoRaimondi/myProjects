@@ -48,5 +48,4 @@ _3x Kaggle Expert. Best ranking:_
 - Kernels Expert -> **top 1%**
 - Discussion Expert -> **top 1%**
 
-### [LinkedIn profile](https://www.linkedin.com/in/federico-raimondi-cominesi/)
-![linkedin](img/linkedin.jpg) in/federico-raimondi-cominesi/
+### ![linkedin](img/linkedin.jpg) [LinkedIn profile](https://www.linkedin.com/in/federico-raimondi-cominesi/)
