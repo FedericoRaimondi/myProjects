@@ -17,7 +17,7 @@ My motto?
 
 #### 1. Information about projects I am working/I worked on, such as code, descriptions and results (ordered by most recent date):
 
-![folder](img/fld.png) [Data Innovation Summit 2024, Stockholm](IEEE-CIS_Fraud_Detection)
+![folder](img/fld.png) [Data Innovation Summit 2024, Stockholm](DIS24)
 
 ![folder](img/fld.png) [IEEE-CIS Fraud Detection [Silver Medal - 23rd]](IEEE-CIS_Fraud_Detection)
 
