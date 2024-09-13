@@ -1,7 +1,7 @@
 # Data Innovation Summit 2024, Stockholm
 
 ## Link to my conference presentation on our MMM program
-![Video](https://drive.google.com/file/d/1_ipPNMut4uHTRCbsy-CLGOKwrw1OtxoW/view?usp=sharing)
+▶️ [Video](https://drive.google.com/file/d/1_ipPNMut4uHTRCbsy-CLGOKwrw1OtxoW/view?usp=sharing)
 
 ## Useful resources
 
