@@ -1,4 +1,9 @@
-# If you want to deep-dive and try to build your own MMM
+# Data Innovation Summit 2024, Stockholm
+
+## Link to my conference presentation on our MMM program
+![Video](https://drive.google.com/file/d/1_ipPNMut4uHTRCbsy-CLGOKwrw1OtxoW/view?usp=sharing)
+
+## Useful resources
 
 ### Repositories:
 - [Lightweight MMM by Google](https://github.com/google/lightweight_mmm)
