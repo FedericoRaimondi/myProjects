@@ -1,4 +1,4 @@
-Updated site at [federicoraimondi@](https://federicoraimondi.github.io/)
+Updated site at [federicoraimondi.github.io](https://federicoraimondi.github.io/)
 ---
 
 # My Projects
